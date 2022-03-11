@@ -1,5 +1,5 @@
 /target/
-../.idea/
+.idea/
 .settings
 .project
 .classpath
@@ -51,9 +51,3 @@ build/
 .vscode/
 
 *.log
-/package-lock.json
-/.npmrc
-/pnpm-lock.yaml
-*.gz
-/hdl-target/
-/tmp/
